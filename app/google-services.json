@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "200056314804",
+    "firebase_url": "https://pamor-e7f85.firebaseio.com",
+    "project_id": "pamor-e7f85",
+    "storage_bucket": "pamor-e7f85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200056314804:android:bd43c626c45f1c98",
+        "android_client_info": {
+          "package_name": "laroonlab.id.pajaq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200056314804-1td626qj4dmrl2u69co7qb1oumgktjac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "laroonlab.id.pajaq",
+            "certificate_hash": "23f38b7d29c7d0e856a507d18f8860f9e77b5446"
+          }
+        },
+        {
+          "client_id": "200056314804-ontc7acbuh5m07b8h2bl6eun5o8a4ui1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvG3MCk3dPzaGElXI_THmG8gV0Mp6aBzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200056314804-ontc7acbuh5m07b8h2bl6eun5o8a4ui1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
